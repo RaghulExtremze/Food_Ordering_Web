@@ -8,12 +8,15 @@
 *Add to Cart: Users can add items to their cart, adjust quantities, and view order summaries.
 *Order Tracking: Users can track the status of their order in real-time.
 *Admin Panel: Includes features for restaurant managers to manage menu items, view orders, and handle user feedback.
+
 #Technologies Used
+
 #Frontend
 *HTML - For structuring the content on the web pages.
 *CSS - For styling and layout of the website.
 *JavaScript - For dynamic elements and interactivity on the website.
 *React.js - For building the interactive user interface and handling state.
+
 #Backend
 *Node.js - For the server-side environment.
 *Express.js - To create and manage the backend API endpoints.
